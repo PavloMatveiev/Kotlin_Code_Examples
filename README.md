@@ -11,7 +11,7 @@ This repository is divided into zip archives, each containing a complete Kotlin 
 Each zip file in the repository corresponds to a different Kotlin project. Here's what you can expect in each zip file:
 
 - **Source Code:** Complete source code files written in Kotlin.
-- **Project Files:** Necessary project files, including the build scripts (`build.gradle` or `pom.xml`) and settings files for an IDE like IntelliJ IDEA.
+- **Project Files:** Necessary project files, including the build scripts and settings files for an IntelliJ IDEA.
 
 ## How to Use This Repository
 
